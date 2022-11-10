@@ -1,0 +1,15 @@
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/bin/Debug/net6.0/Task_52
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/bin/Debug/net6.0/Task_52.deps.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/bin/Debug/net6.0/Task_52.runtimeconfig.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/bin/Debug/net6.0/Task_52.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/bin/Debug/net6.0/Task_52.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/Task_52.csproj.AssemblyReference.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/Task_52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/Task_52.AssemblyInfoInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/Task_52.AssemblyInfo.cs
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/Task_52.csproj.CoreCompileInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/Task_52.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/refint/Task_52.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/Task_52.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/Task_52.genruntimeconfig.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework_How not to write code_pt1/Task_52/obj/Debug/net6.0/ref/Task_52.dll
